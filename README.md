@@ -1,0 +1,21 @@
+Hi, I'm ayato_sasakura.
+
+## My Own graffiti 
+There are [200 colors as white](https://github.com/yude/ahnmika-white). (2022/05 -)
+
+## Contact
+
+- Twitter : [@ayato_sasakura](https://twitter.com/ayato_sasakura)
+- Discord : しゃしゃくりゃ#2639
+
+## I take part in ...
+
+- [Brain-hackers](https://github.com/brain-hackers) - Discord, GitHub / Wiki Writer
+- [Brain Wiki](https://brain.fandom.com/ja/wiki/Brain_Wiki) - Fandom Wiki / administrator
+
+## Personal Data
+
+- I live in Yamaguchi-pref / Japan.
+- I don't have 'JINKEN' (165 cm)
+- HTML / CSS / PHP / JavaScript / Python begineers(forever)
+- I am a Senior High School student. (2021/4-)
