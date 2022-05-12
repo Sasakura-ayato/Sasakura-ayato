@@ -19,3 +19,8 @@ There are [200 colors as white](https://github.com/yude/ahnmika-white). (2022/05
 - I don't have 'JINKEN' (165 cm)
 - HTML / CSS / PHP / JavaScript / Python begineers(forever)
 - I am a Senior High School student. (2021/4-)
+
+## History
+
+- 2005 : I was born.
+- 2022 : Joined Brain-Hackers as Document Editor.
