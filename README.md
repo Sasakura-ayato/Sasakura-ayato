@@ -16,8 +16,8 @@ There are [200 colors as white](https://github.com/yude/ahnmika-white). (2022/05
 ## Personal Data
 
 - I live in Yamaguchi-pref / Japan.
-- I don't have 'JINKEN' (165 cm)
-- HTML / CSS / PHP / JavaScript / Python begineers(forever)
+- I don't have ['JINKEN'](https://www.j-cast.com/2022/02/16431135.html?p=all) (165 cm)
+- HTML / CSS / PHP / JavaScript / Python begineers　(forever)
 - I am a Senior High School student. (2021/4-)
 
 ## History
