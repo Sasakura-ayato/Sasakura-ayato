@@ -1,7 +1,7 @@
 Hi, I'm ayato_sasakura.
 
 ## My Own graffiti 
-- There are [200 colors as white](https://github.com/yude/ahnmika-white). (2022/05 -)
+- There are [200 colors as white](https://github.com/yude/ahnmika-white). (2022/05)
 - AHHHHHHHHHHHHHHHHH! NO EXAM! I DON'T NEED EXAM! F**k! (2022/06 -)
 
 ## Contact
